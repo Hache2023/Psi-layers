@@ -1,5 +1,5 @@
 {
-  "name": "tau-layers",
+  "name": "psi-layers",
   "version": "0.0.0",
   "private": true,
   "description": "",
@@ -8,7 +8,7 @@
     "scss-update": "npx sass scss/index.scss dist/style.css",
     "copy-public": "cp -vfR public/** dist"
   },
-  "author": "jwklong",
+  "author": "hache2023",
   "devDependencies": {
     "node-sass": "^7.0.3",
     "ts-loader": "^9.4.1",
